@@ -3,7 +3,7 @@
 **Correo:** alu0101233093@ull.edu.es  
 **Asignatura:** Desarrollo de sistemas informáticos  
 
-[![Coverage Status](https://coveralls.io/repos/github/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct06-generics-solid-alu0101233093/badge.svg?branch=master)](https://coveralls.io/github/ULL-ESIT-INF-DSI-2122/ull-esit-inf-dsi-21-22-prct06-generics-solid-alu0101233093?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/alu0101233093/Testing_Project/badge.svg?branch=master)](https://coveralls.io/github/alu0101233093/Testing_Project?branch=master)
 [![Tests](https://github.com/alu0101233093/Testing_Project/actions/workflows/node.js.yml/badge.svg)](https://github.com/alu0101233093/Testing_Project/actions/workflows/node.js.yml)
 
 ## Índice
@@ -338,4 +338,4 @@ jobs:
 
 Ahora con cada push se comprobarán los tests y el recubrimiento de código automáticamente y se podrá revisar en Github Actions.
 
-## Integración continua de código fuente TypeScript a través de GitHub Action<a name="id0.6"></a>
+## <a name="id0.6"></a>
