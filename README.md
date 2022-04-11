@@ -5,6 +5,7 @@
 
 [![Coverage Status](https://coveralls.io/repos/github/alu0101233093/Testing_Project/badge.svg?branch=master)](https://coveralls.io/github/alu0101233093/Testing_Project?branch=master)
 [![Tests](https://github.com/alu0101233093/Testing_Project/actions/workflows/node.js.yml/badge.svg)](https://github.com/alu0101233093/Testing_Project/actions/workflows/node.js.yml)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ULL-ESIT-INF-DSI-2122_Testing_project&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=ULL-ESIT-INF-DSI-2122_Testing_project)
 
 ## Índice
 - [Creación del directorio de trabajo y tareas previas](#id0)
@@ -405,3 +406,6 @@ sonar.sourceEncoding=UTF-8
 # Coverage info
 sonar.javascript.lcov.reportPath=coverage/lcov.info
 ```
+
+Y ya estaría configurada la `Gihub Actions` de `Sonar Cloud`. Por último, para añadir el badge a la documentación del proyecto, nos dirigiremos al apartado de información
+abajo a la izquierda y copiaremos el badge.
